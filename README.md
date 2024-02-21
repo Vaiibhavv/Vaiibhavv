@@ -1,6 +1,6 @@
-(https://pixabay.com/illustrations/painting-knight-oil-painting-moon-3995999)
-# Hi there 👋 I am Vaibhav Patil
-## A passionate Devloper from India
+[](https://pixabay.com/illustrations/painting-knight-oil-painting-moon-3995999)
+  # Hi there 👋 I am Vaibhav Patil
+ ## A passionate Devloper from India 
 
 - 🌱 I’m currently learning working Linux Shell Scripting, Managing Linux Systems, Linux Cloud and Devops, AWS Cloud, SQL.
 - 💬 Ask me about Python, ReactJs, SQL, Linux Fundamentals.
